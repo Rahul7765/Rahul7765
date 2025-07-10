@@ -2,9 +2,9 @@
 
 - 👨‍💻 I’m a **Full Stack Developer** passionate about building scalable web applications  
 - 💡 Skilled in:  
-  - **Java, Spring Boot, REST API, Hibernate**  
-  - **C, C++**  
-  - **HTML, CSS, JavaScript**
+  - **Java, Spring Boot, REST API, Hibernate**    
+  - **HTML, CSS, JavaScript, react.js**
+  - **MySQL, AWS, Jira, Mern**
 - 🚀 Always learning and improving my backend and frontend skills
 - 💬 Ask me about Java backend development or full-stack projects
 - 📫 Reach me at: **rjm6004@gmail.com**
